@@ -2,6 +2,8 @@
 
 The intro slides for the London TensorFlow meetup.
 
+![screenshot 2016-10-27 19 40 23](https://cloud.githubusercontent.com/assets/58871/19780528/4375c6c4-9c7d-11e6-9fc5-344841796f02.png)
+
 ## This is a Spectacle deck.
 
 The Spectacle core API is available at [https://github.com/FormidableLabs/spectacle/blob/master/README.markdown](https://github.com/FormidableLabs/spectacle/blob/master/README.markdown).
